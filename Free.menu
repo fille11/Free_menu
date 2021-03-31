@@ -1,0 +1,6 @@
+local Plrs = game:GetService("Players");
+local Run = game:GetService("RunService");
+local CoreGui = game:GetService("CoreGui");
+local StartGui = game:GetService("StarterGui");
+local Teams = game:GetService("Teams");
+local UserInput = game:GetService("UserInputService");
